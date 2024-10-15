@@ -1,0 +1,13 @@
+Hi Bhavya Learning
+
+Pwd - present working directory
+Cd - change directory
+Ls - shows folders in directory
+Mkdir - creates folders
+Touch - create files
+Cat - see content in files
+Vi - to edit files
+Mv - to move files and folders
+Cp - copy files cp -r for copying folders
+Npm - node package manager
+Node - run js files
